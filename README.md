@@ -1,42 +1,39 @@
-# 🎉 Event Registration Management System
+Event Registration Management System
 
 A console-based Event Registration Management System developed in **C++** as a Data Structures and Algorithms (DSA) course project.
 
 ---
 
-## 📖 Project Overview
+Project Overview
 
 This application allows users to manage event registrations using a **Doubly Linked List** data structure. It provides a menu-driven interface where users can add, update, delete, search, and display event records.
 
 The project demonstrates the practical application of linked lists, dynamic memory allocation, file handling, and input validation in C++.
 
----
+ Features
 
-## ✨ Features
+Login System
+Add New Event
+Update Event Details
+Delete Event
+Search Event
+Display All Events
+Duplicate Event ID Validation
+Phone Number Validation
+File Handling for Data Storage
+Doubly Linked List Implementation
 
-- 🔐 Login System
-- ➕ Add New Event
-- ✏️ Update Event Details
-- ❌ Delete Event
-- 🔍 Search Event
-- 📋 Display All Events
-- 🆔 Duplicate Event ID Validation
-- 📱 Phone Number Validation
-- 💾 File Handling for Data Storage
-- 🔗 Doubly Linked List Implementation
 
----
-
-## 🛠 Technologies Used
+Technologies Used
 
 - C++
 - Visual Studio Code
 - File Handling
 - Doubly Linked List
 
----
 
-## 📂 Project Structure
+
+ Project Structure
 
 ```text
 Event-Registration-System/
@@ -48,9 +45,8 @@ Event-Registration-System/
 └── screenshots/
 ```
 
----
 
-## 🚀 How to Run
+ How to Run
 
 Compile the program:
 
@@ -66,7 +62,7 @@ Run it:
 
 ---
 
-## 📚 Concepts Demonstrated
+ Concepts Demonstrated
 
 - Data Structures
 - Doubly Linked Lists
@@ -78,7 +74,7 @@ Run it:
 
 ---
 
-## 🔮 Future Improvements
+ Future Improvements
 
 - Graphical User Interface (GUI)
 - Database Integration
@@ -89,7 +85,7 @@ Run it:
 
 ---
 
-## 👨‍💻 Author
+ Author
 
 **Redeat**
 
