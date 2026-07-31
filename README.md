@@ -41,10 +41,10 @@ Event-Registration-System/
 ├── main.cpp
 ├── README.md
 ├── LICENSE
+├── .gitignore
 ├── presentation/
 └── screenshots/
 ```
-
 
  How to Run
 
